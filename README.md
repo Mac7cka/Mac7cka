@@ -5,6 +5,9 @@ I enjoy building tools that solve real-world problems — with a splash of creat
 
 ## 🔨 Some of my Projects 
 
+### [Educational Games](https://github.com/Mac7cka/educational-games)
+An interactive educational web application designed for children aged 4–5 years old to play, learn, and explore English words in a fun and engaging way. Built with HTTP, CSS, JavaScript, React, Node.js, and TailwindCSS, the app features beautiful pastel-colored watercolor illustrations, kid-friendly animations, and pronunciation support to make learning enjoyable.
+
 ### 🏡 [MM House Search](https://github.com/Mac7cka/MM-house-search)
 A Python-based web scraping and data filtering tool that automates the discovery of relevant property listings on Byval.sk., 
 with dynamic location filtering using custom logic and geolocation proximity (e.g., within 100 km or 1-hour drive from a base city).  
